@@ -83,7 +83,7 @@ Also add
 8. This will now appear in project explorer, drag in under the Libraries group.
 9. In same screen, click + again, you should now see the .a file for you project, Add this
 10. Clean and Rebuild your Xcode project
-##### Option: With [CocoaPods](https://cocoapods.org/)
+##### With [CocoaPods](https://cocoapods.org/)
 
 Add the following to your `Podfile` and run `pod update`:
 
